@@ -1,0 +1,58 @@
+body {
+	background-color: 6495ED;
+	font-family: railway, sans-serif;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#banner {
+	background-color: black;
+	background-size: cover;
+	width: 100%;
+	Height: 200px;
+	border: 3px solid F5FFFA;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#liste li {
+	color: white;
+  	font-size: 16px;
+  	font-weight: 300;
+  	text-transform: uppercase;
+  	text-align: center;
+  	display: inline;
+  	width: 120px;
+  	float: auto;
+  	padding-bottom: 10px;
+}
+
+h1 {
+	color: DCDCDC;
+	font-family: OCR A Std, monospace;
+	text-align: center;
+	letter-spacing: 0.3em;
+}
+
+h2 {
+	color: 00008B;
+	margin-left: 2%;
+
+}
+
+p {
+	color: E6E6FA;
+}
+
+.dino {
+	max-width: 2000px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 60%;
+  	border: 2px solid MintCream;
+}
+
+* {
+	box-sizing: border-box;
+}
